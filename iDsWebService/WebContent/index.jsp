@@ -8,8 +8,8 @@
 </head>
 <body>
 <%
-System.out.println("XXXXXXXsdfdsfdsdfsdfsfdssfXXXXXXXXXXXXX");
-out.println("XXXXXXXXXXXXXXXXXXXXXXXXXXXsfsdfdsfXxxxsdfdsfdsfdsfdsfsdfsdf"); 
+System.out.println("XXXXXXXXXXXXXXXXXXXX");
+out.println("XXXXXXXXXXXXXXXXXXXXXXXXXXXXxxxsdfdsfsfsfsdfsdfdsfdsfdsfsdfsdf"); 
 out.println(1+1);
 %>
 </body>
